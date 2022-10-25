@@ -1,10 +1,10 @@
+import Header from './components/Layout/Header';
+
 function App() {
   return (
-    <div className="App">
-      <header>
-        <h1>Let's get started</h1>
-      </header>
-    </div>
+    <>
+    <Header />
+    </>
   );
 }
 
